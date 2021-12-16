@@ -1,0 +1,13 @@
+body {
+
+    /* assign Green color to make webpage green*/
+    background-color: green;
+    /* assign White color to make information text white*/
+    color: white;
+}
+
+h1 {
+    /* Design Name of the Sportsperson*/
+    color: yellow;
+    text-align: center;
+}
